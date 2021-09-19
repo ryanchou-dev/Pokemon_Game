@@ -5,16 +5,10 @@ Hey! Thanks for visiting the source code.
 
 All of the input/output is in the terminal.
 
-<details>
-<summary>Repl.it</summary>
-<br>
-[repl.it terminal](repl.jpg)
-</details>
+## Repl.it
+![repl](./resources/repl.jpg)
 
-<details>
-<summary>Locally</summary>
-<br>
+## Locally
 After running the Python file. All of the prompts will be in the same window.
 
-[terminal](terminal.jpg)
-</details>
+![terminal](./resources/terminal.jpg)
